@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 int main() {
-    int n,d,i,j,k,l;
+    int n,d,i,j,k,l,p;
     int temp;
     printf("enter the value of n");
     scanf("%d",&n);
