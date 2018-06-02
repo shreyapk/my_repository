@@ -1,0 +1,17 @@
+git init
+  499  git config --global user.name 'Shreya'
+  500  git config --global user.email 'pkshreya_1997@yahoo.in'
+  501  git add left.c
+  502  git add /Documents/left.c
+  503  git add left.c
+  504  git status
+  505  git add *.txt
+  506  git status
+  507  git rm --cached left.c
+  508  git status
+  509  git add .
+  510  git status
+  511  git add .
+  512  git status
+  513  git commit
+
